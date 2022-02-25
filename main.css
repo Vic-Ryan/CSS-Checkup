@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    background-color: rgba(30, 226, 40, 0.671);
+    font-weight: bold;
+}
+
+.headers {
+    font-size: large;
+}
+
+#lorem {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(./assets/1.jpg);
+    color: antiquewhite;
+    width: 20%;
+}
+
+img {
+    float: left;
+    width: 20%;
+    height: 100px;
+}
+
+#customer {
+    float: right;
+    border: black;
+    border-radius: 10%;
+    width: auto;
+    background-color: brown;
+}
